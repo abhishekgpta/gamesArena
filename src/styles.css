@@ -12,6 +12,11 @@ body {
 table {
   width: 100%;
 }
+th {
+  text-align: left;
+  background-color: black;
+  color: white;
+}
 table,
 td,
 th {
