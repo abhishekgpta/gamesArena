@@ -1,2 +1,0 @@
-# gamesArena
-Created with CodeSandbox
